@@ -1,0 +1,71 @@
+* {
+  /* margin: 0%;
+    padding: 0%; */
+}
+/*#navbar{
+    opacity: 0.5;
+  }*/
+  .home{
+    height: auto;
+  }
+a {
+  font-size: 20px;
+  font-family: Poppins;
+  font-weight: 400;
+  text-decoration: none;
+}
+.dropdown-menu{
+background-color: #2c3e7b;
+}
+a:hover {
+  text-decoration: underline;
+}
+nav {
+  background: linear-gradient(to left, #2c3e7b,#49598c,#dfe1e8);
+}
+.barChart {
+  border: 2px solid black;
+}
+li{
+  text-align:start;
+ 
+}
+h5{
+  text-align:start;
+}
+.kids {
+  border: 1px solid black;
+  border-radius: 10%;
+}
+.professional{
+  border: 1px solid black;
+  border-radius: 10%;
+}
+p{
+  font-size: 24px;
+  font-weight: 500;
+}
+.block{
+  height:auto;
+  background-color: #266ca9;
+}
+.benefits{
+  background-color:;
+
+}
+.courses{
+  height: auto;
+}
+ .card {
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+h1{
+  font-weight: 700;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.card:hover{
+  box-shadow: 0 8px 16px 0 rgba(7, 174, 251, 0.2), 0 12px 40px 0 rgba(2, 106, 252, 0.19);
+}
